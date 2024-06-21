@@ -1,11 +1,9 @@
-<h2 align="left">Hi 👋! I'm GeteIA and I study design and Graduated in Cyber Security | Pentester </h2>
-
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=273746&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+GeteIA++;I'm+23+years+old;I+am+from+Brazil+SP;I+study+Design+and+am+Graduated+in+CyberSecurity+and+Pentest;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeteIA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElissonDeSousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -46,10 +44,11 @@
   
 </div>
 
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="left">  
+<a href="https://www.instagram.com/geteofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/@geteofc" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"</a>
+</a>
+</a>
+</div>
