@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=138d75=&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+GeteIA++I'm+23+years+old+I+am+from+Brazil+SP+I+Study+Design+and+am+Graduated+in+CyberSecurity+and+Pentest;Be+Welcome!+:%29)](https://git.io/typing-svg)
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeteIA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
