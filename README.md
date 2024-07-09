@@ -1,9 +1,11 @@
-
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1000&pause=2000&color=008000&random=false&width=505&lines=Hello World!+My+name+is+GeteIA;Graduated+in+Cyber+Security+;and+Studying+Design;Be+Welcome+my+Github" alt="Typing SVG" /></a>
+<div display: flex; justify-content: center;  align="center">
+<p  display: flex; justify-content: center;  align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black &weight=190&duration=1000&pause=2000&color=008000&random=false&width=339&lines=Hello World!+My+name+is+GeteIA;Graduated+in+Cyber+Security+;and+Studying+Design+now;Be+Welcome+my+Github" alt="Typing SVG" /></a>
 </p>
+</div>
+
   
-<div align="center">
+<div margin= 0 auto; display: flex;  justify-content: center; align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeteIA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
