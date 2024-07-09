@@ -33,7 +33,7 @@
   <img width="12"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" height="30" alt="etherium">
   <img width="12"/>
-  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" height="30" alt="tor browser" />
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" height="26" alt="tor browser" /> <br>
   <img width="12" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="30" alt="kali linux" />
   <img width="12" />
