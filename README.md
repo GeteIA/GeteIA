@@ -1,11 +1,9 @@
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1000&pause=2000&color=0A2B58&random=false&width=435&lines=Hello World!+My+name+is+GeteIA;Graduated+in+Cyber+Security+;and+Studying+Design;Be+Welcome+my+Github" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1000&pause=2000&color=008000&random=false&width=505&lines=Hello World!+My+name+is+GeteIA;Graduated+in+Cyber+Security+;and+Studying+Design;Be+Welcome+my+Github" alt="Typing SVG" /></a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeteIA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeteIA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -42,8 +40,6 @@
    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30" alt="stackoverflow" />
   <img width="12" />
 <br>
-  
-  
   
 </div>
 
