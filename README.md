@@ -39,8 +39,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="jvascript" />
   <img width="12" />
-   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30" alt="stackoverflow" />
-  <img width="12" />
+
 <br>
   
 </div>
